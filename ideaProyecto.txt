@@ -1,0 +1,2 @@
+"LearnCode" es una aplicación móvil diseñada por Coding Raptors para ayudar a los estudiantes a aprender programación. 
+Ofrecerá módulos de aprendizaje desde los conceptos básicos hasta temas avanzados de programación. 
